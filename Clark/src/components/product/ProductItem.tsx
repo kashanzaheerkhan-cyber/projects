@@ -30,7 +30,9 @@ export const ProductItem = ({product, onViewProduct}: Props) => {
   }, [fadeAnim])
 
   return (
-    <TouchableOpacity onPress={() => onViewProduct(product)}>
+    <TouchableOpacity
+      testID={'ProductItem_' + product.title}
+      onPress={() => onViewProduct(product)}>
       <Animated.View style={[styles.container, {opacity: fadeAnim}]}>
         <ProductImage
           image={product.images[0] || ''}
