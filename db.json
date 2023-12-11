@@ -2,11 +2,51 @@
   "posts": [
     {
       "id": 1,
-      "ad_title": "Exciting Product Launch",
+      "ad_title": "Exciting Product Launch 1",
       "company_name": "Company 1",
       "budget": 5000,
       "budget_spent": 2000,
       "date_of_campaign_start": "2023-03-01"
-    }
+    },
+     {
+      "id": 2,
+      "ad_title": "Exciting Product Launch 2",
+      "company_name": "Company 2",
+      "budget": 10000,
+      "budget_spent": 1299,
+      "date_of_campaign_start": "2023-03-01"
+    },
+     {
+      "id": 3,
+      "ad_title": "Exciting Product Launch 3",
+      "company_name": "Company 3",
+      "budget": 8000,
+      "budget_spent": 1229,
+      "date_of_campaign_start": "2023-03-01"
+    },
+     {
+      "id": 4,
+      "ad_title": "Exciting Product Launch 4",
+      "company_name": "Company 4",
+      "budget": 500011,
+      "budget_spent": 2229,
+      "date_of_campaign_start": "2023-03-01"
+    },
+     {
+      "id": 5,
+      "ad_title": "Exciting Product Launch 5",
+      "company_name": "Company 5",
+      "budget": 58000,
+      "budget_spent": 20000,
+      "date_of_campaign_start": "2023-03-01"
+    },
+     {
+      "id": 6,
+      "ad_title": "Exciting Product Launch 6",
+      "company_name": "Company 6",
+      "budget": 511000,
+      "budget_spent": 22299,
+      "date_of_campaign_start": "2023-03-01"
+    },
   ]
 }
