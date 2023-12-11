@@ -1,24 +1,124 @@
 {
-  "posts": [
+  "ads": [
     {
-      "id": 1,
-      "title": "hello"
-    },
-     {
-      "id": 5,
-      "title": "hello"
-    },
-    {
-      "id": 2,
+      "id": "1",
       "ad_title": "Exciting Product Launch",
-  "company_name": "AwesomeCorp",
-  "budget": 5000.0,
-  "budget_spent": 2000.0,
-  "date_of_campaign_start": "2023-03-01",
-  "date_of_campaign_end": "2023-03-15"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+      "company_name": "Company 1",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "2",
+      "ad_title": "Exciting Product Launch 2",
+      "company_name": "Company 2",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "3",
+      "ad_title": "Exciting Product Launch 3",
+      "company_name": "Company 3",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "4",
+      "ad_title": "Exciting Product Launch 4",
+      "company_name": "Company 4",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "5",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 5",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "6",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 6",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "7",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 7",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "8",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 8",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "9",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 9",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "10",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 10",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "11",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 11",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "12",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 12",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "13",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 13",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "14",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 14",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+    {
+      "id": "15",
+      "ad_title": "Exciting Product Launch",
+      "company_name": "Company 15",
+      "budget": 5000.0,
+      "budget_spent": 2000.0,
+      "date_of_campaign_start": "2023-03-01"
+    },
+  ]
 }
