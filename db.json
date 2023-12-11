@@ -2,7 +2,14 @@
   "ads": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "hello",
+    },
+    {
+       "id": 1245,
+    "company_name": "Tesla",
+    "budget": 125000.0,
+    "budget_spent": 62000.0,
+    "date_of_contract_sign": "2021-01-04"
     }
   ]
 }
